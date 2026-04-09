@@ -2,7 +2,6 @@
 
 ## Overview
 This project implements a CNN model for MNIST digit classification using PyTorch and visualizes model decisions using Grad-CAM.
-
 This project focuses on both high accuracy and model interpretability.
 
 ## Features
