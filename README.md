@@ -25,6 +25,9 @@ Conv2d(1→16) → Conv2d(16→32) → MaxPooling → Linear
 ### Grad-CAM Visualization
 ![Grad-CAM](gradcam_result.png)
 
+## Training Curve
+![Loss Curve](loss_curve.png)
+
 ## How to Run
 
 ```bash
